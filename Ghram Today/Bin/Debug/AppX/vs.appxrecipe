@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-AERIPDQ</Machine>
+    <WindowsUser>Mustafa Jawad</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6d3db5bf-133f-49aa-b611-f42c326b4314</PackageIdentityName>
+    <RegisteredManifestChecksum>2AF4A7DFA45B977EB27C7CF09B0626CAA43740B6E9B650B4F796CEBE0EF85A55</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6d3db5bf-133f-49aa-b611-f42c326b4314_1.0.0.0_neutral__0n4aqhp8y1rk6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6d3db5bf-133f-49aa-b611-f42c326b4314_0n4aqhp8y1rk6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6d3db5bf-133f-49aa-b611-f42c326b4314</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mustafa Jawad</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-12T16:56:29.985</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\Ghram today.exe">
+      <PackagePath>Ghram today.exe</PackagePath>
+      <Modified>2014-09-12T17:24:52.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-12T04:51:09.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+      <Modified>2014-09-12T16:56:29.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-09-12T17:24:51.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-12T16:56:29.817</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

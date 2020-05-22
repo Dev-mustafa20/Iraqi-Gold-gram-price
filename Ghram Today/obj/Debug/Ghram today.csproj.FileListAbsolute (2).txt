@@ -1,0 +1,36 @@
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\App.xbf
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\MainPage.xbf
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\Ghram today.exe
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\Ghram today.pdb
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\resources.pri
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\AppxManifest.xml
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\Ghram today.build.appxrecipe
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\App.g.i.cs
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\App.g.cs
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\MainPage.g.i.cs
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\MainPage.g.cs
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\App.xaml
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\App.xbf
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\MainPage.xaml
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\MainPage.xbf
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\Ghram today.exe
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\Ghram today.pdb
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\priconfig.xml
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\layout.resfiles
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\resources.resfiles
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\pri.resfiles
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\qualifiers.txt
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\bin\Debug\BlankPage1.xbf
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\BlankPage1.g.i.cs
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\BlankPage1.g.cs
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\BlankPage1.xaml
+C:\Users\Mustafa Jawad\Desktop\Ghram today\Ghram today\obj\Debug\BlankPage1.xbf

@@ -1,0 +1,44 @@
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\Ghram Today.dll
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\Ghram Today.pdb
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\AppManifest.xaml
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\Ghram_Today_Debug_AnyCPU.xap
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\obj\Debug\App.g.cs
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\obj\Debug\MainPage.g.cs
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\obj\Debug\Ghram Today.g.resources
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\obj\Debug\Ghram_Today.Resources.AppResources.resources
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\obj\Debug\Ghram Today.csproj.GenerateResource.Cache
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\obj\Debug\Ghram Today.dll
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\obj\Debug\Ghram Today.pdb
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\obj\Debug\XapCacheFile.xml
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\obj\Debug\Page1.g.cs
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Mustafa Jawad\Desktop\Ghram Today\Ghram Today\obj\Debug\Ghram Today.csprojResolveAssemblyReference.cache
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\Assets\ApplicationIcon.png
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\Ghram Today.dll
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\Ghram Today.pdb
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\AppManifest.xaml
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\Properties\WMAppManifest.xml
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\Ghram_Today_Debug_AnyCPU.xap
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\obj\Debug\App.g.cs
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\obj\Debug\MainPage.g.cs
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\obj\Debug\Page1.g.cs
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\obj\Debug\Ghram Today.g.resources
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\obj\Debug\Ghram_Today.Resources.AppResources.resources
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\obj\Debug\Ghram Today.csproj.GenerateResource.Cache
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\obj\Debug\Ghram Today.dll
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\obj\Debug\Ghram Today.pdb
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram Today\obj\Debug\XapCacheFile.xml
+E:\#MUSTFA JAWAD\Visual Studio project\Ghram Today\Ghram today\obj\Debug\Ghram today.csprojResolveAssemblyReference.cache
